@@ -10,13 +10,16 @@
 <h3 align="center">I'm Vlad Andrei Rădulescu from Galați, Romania 🇷🇴</h3>
 
 <p align="center">
-🎓 Computer Science graduate from <b>University "Dunărea de Jos" of Galați (UGAL)</b><br>
-🎓 Currently enrolled in a <b>Master’s program in Advanced Information Technology</b><br>
+🎓 Computer Science graduate from <b>University "Dunărea de Jos" of Galați (UGAL)</b> <br>
+📆 <b>Duration:</b> 4 years (2020 – 2024)<br><br>
+🎓 Currently enrolled in a <b>Master’s program in Advanced Information Technology</b> at the same university<br>
+📆 <b>Duration:</b> 2 years (2024 – 2026) — <b>Status:</b> Ongoing<br><br>
 💼 Focused on <b>QA Test Automation</b> using <b>Java</b><br>
 🧠 Passionate about <b>clean code, testing frameworks</b> and <b>continuous learning</b><br>
 🎹 In my free time, I love playing <b>chess</b> ♟️ and <b>piano</b> 🎵<br>
 🚀 Always looking to contribute to open-source projects and improve my automation skills.
 </p>
+
 
 
 ###
