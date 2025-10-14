@@ -89,6 +89,16 @@
   • Share notes and learning snippets in README docs
 </details>
 
+<details>
+  <summary><b>🚀 Goals (2026)</b></summary>
+  <br>
+  • Contribute to <b>10+ good first issues</b> and <b>10+ general issues</b> across open-source projects<br>
+  • Launch/maintain <b>10+ mini projects</b> (automation demos, utilities, learning examples)<br>
+  • Evolve my Java test framework into a <b>reusable toolkit</b> (reporting, CI templates, test data, parallel runs)<br>
+  • Add <b>advanced API automation</b> (contract tests, negative cases, schema validation)<br>
+  • Publish <b>how-to notes</b> and short guides (setup, debugging, CI) to help other beginners
+</details>
+
 ---
 
 <!-- 📈 Stats -->
