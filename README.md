@@ -4,8 +4,11 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Vlad%20Andrei%20Radulescu&fontSize=40&fontAlignY=35&desc=Fresh%20Graduate%20and%20Master%27s%20Student%20-%20Galati%2C%20Romania&descAlignY=58&descAlign=50"
     alt="Vlad Andrei Radulescu - Fresh Graduate and Master's Student - Galati, Romania"
   />
-</p>
 
+</p> 
+<p align="center">
+  <img src="https://holopin.me/vladandrei25?v=2" alt="Holopin Board" width="800" />
+</p> 
 <!-- 🔤 Animated typing line -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=820&lines=QA+Automation+with+Java;Clean+Code+%7C+Testing+Frameworks+%7C+Continuous+Learning;Full-stack+basics%3A+HTML+%2F+CSS+%2F+JavaScript+%2F+MySQL;Open+to+good+first+issues+%26+collaboration"
