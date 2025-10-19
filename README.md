@@ -38,6 +38,21 @@
 
 ---
 
+## 💻 My Projects
+
+### 🧪 [HerokuApp Automation Tests](https://github.com/VladAndrei25/herokuapp-automation-tests)
+Automated UI testing suite built with **Java**, **Selenium WebDriver**, **JUnit 5**, and **Maven**.  
+The project automates testing for [the-internet.herokuapp.com](https://the-internet.herokuapp.com) —  
+a popular site for practicing automation testing skills.
+
+<div align="center">
+  <img src="https://github.com/VladAndrei25/herokuapp-automation-tests/raw/main/demoTestExecution.gif" alt="Test run demo" width="80%">
+</div>
+
+⭐ *This is my personal Selenium automation project — built from scratch as part of my learning journey.*
+
+---
+
 <!-- 🧰 Tech Stack (kept relevant only) -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="56" alt="java" />
