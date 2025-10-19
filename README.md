@@ -1,5 +1,5 @@
 <!-- 🌟 Personal Banner (safe) -->
-<p align="center">
+ <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Vlad%20Andrei%20Radulescu&fontSize=40&fontAlignY=35&desc=Fresh%20Graduate%20and%20Master%27s%20Student%20-%20Galati%2C%20Romania&descAlignY=58&descAlign=50"
     alt="Vlad Andrei Radulescu - Fresh Graduate and Master's Student - Galati, Romania"
@@ -124,5 +124,4 @@
   <i>Thanks for visiting — feel free to reach out for collaboration, good first issues, or study groups!</i>
 </p>
 <br><hr>
-[⬆️ Back to top](#)
-
+ 
