@@ -51,6 +51,20 @@ a popular site for practicing automation testing skills.
 
 ⭐ *This is my personal Selenium automation project — built from scratch as part of my learning journey.*
 
+
+### 🧪 [REST API Automation Tests – ReqRes](https://github.com/VladAndrei25/restapi-automation-tests)
+Automated testing project for the ReqRes API using Java, RestAssured, and JUnit 5.
+The goal of this project is to demonstrate CRUD (Create, Read, Update, Delete) operations on a RESTful API.
+This project validates the functionality of public API endpoints from reqres.in
+using automated tests written in Java. It focuses on verifying the correctness of HTTP methods,
+status codes, and response payloads.
+
+<div align="center">
+  <img src="https://github.com/VladAndrei25/restapi-automation-tests/blob/main/testAPIRestAssured.gif" alt="Test run demo" width="80%">
+</div>
+
+⭐ *This is my personal REST API automation project — built from scratch as part of my learning journey.*
+
 ---
 
 <!-- 🧰 Tech Stack (kept relevant only) -->
@@ -101,20 +115,20 @@ a popular site for practicing automation testing skills.
 <details>
   <summary><b>🎯 Goals (2025)</b></summary>
   <br>
-  • Contribute to <b>3+ good first issues</b> in testing-related repositories<br>
-  • Build a small <b>Java test automation framework</b> (page objects, reporting)<br>
-  • Practice <b>API automation</b> and add test coverage examples<br>
-  • Share notes and learning snippets in README docs
+  ✅ Contribute to <b>3+ good first issues</b> in testing-related repositories<br>
+  ✅ Build a small <b>Java test automation framework</b> (page objects, reporting)<br>
+  ✅ Practice <b>API automation</b> and add test coverage examples<br>
+  ✅ Share notes and learning snippets in README docs
 </details>
 
 <details>
   <summary><b>🚀 Goals (2026)</b></summary>
   <br>
-  • Contribute to <b>10+ good first issues</b> and <b>10+ general issues</b> across open-source projects<br>
-  • Launch/maintain <b>10+ mini projects</b> (automation demos, utilities, learning examples)<br>
-  • Evolve my Java test framework into a <b>reusable toolkit</b> (reporting, CI templates, test data, parallel runs)<br>
-  • Add <b>advanced API automation</b> (contract tests, negative cases, schema validation)<br>
-  • Publish <b>how-to notes</b> and short guides (setup, debugging, CI) to help other beginners
+  [ ] Contribute to <b>10+ good first issues</b> and <b>10+ general issues</b> across open-source projects<br>
+  [ ] Launch/maintain <b>10+ mini projects</b> (automation demos, utilities, learning examples)<br>
+  [ ] Evolve my Java test framework into a <b>reusable toolkit</b> (reporting, CI templates, test data, parallel runs)<br>
+  [ ] Add <b>advanced API automation</b> (contract tests, negative cases, schema validation)<br>
+  [ ] Publish <b>how-to notes</b> and short guides (setup, debugging, CI) to help other beginners
 </details>
 
 ---
