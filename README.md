@@ -40,7 +40,7 @@
 
 ## 💻 My Projects
 
-### 🧪 [HerokuApp Automation Tests](https://github.com/VladAndrei25/herokuapp-automation-tests)
+### *🧪 [HerokuApp Automation Tests](https://github.com/VladAndrei25/herokuapp-automation-tests)*
 Automated UI testing suite built with **Java**, **Selenium WebDriver**, **JUnit 5**, and **Maven**.  
 The project automates testing for [the-internet.herokuapp.com](https://the-internet.herokuapp.com) —  
 a popular site for practicing automation testing skills.
@@ -52,7 +52,8 @@ a popular site for practicing automation testing skills.
 ⭐ *This is my personal Selenium automation project — built from scratch as part of my learning journey.*
 
 
-### 🧪 [REST API Automation Tests – ReqRes](https://github.com/VladAndrei25/restapi-automation-tests)
+
+### *🧪 [REST API Automation Tests – ReqRes](https://github.com/VladAndrei25/restapi-automation-tests)*
 Automated testing project for the ReqRes API using Java, RestAssured, and JUnit 5.
 The goal of this project is to demonstrate CRUD (Create, Read, Update, Delete) operations on a RESTful API.
 This project validates the functionality of public API endpoints from reqres.in
@@ -65,6 +66,20 @@ status codes, and response payloads.
 
 ⭐ *This is my personal REST API automation project — built from scratch as part of my learning journey.*
 
+
+
+### *🧪 [Task Manager Application](https://github.com/VladAndrei25/task-manager-app)*
+A simple yet efficient console-based task management application built with Java 17.
+It allows users to add, update, remove, list, and export tasks, while automatically saving changes locally.
+The Task Manager App provides an interactive CLI for managing daily tasks.
+All operations are reflected in a local file (tasks.txt), and users can export their task list in Markdown format (tasks.md).
+
+<div align="center">
+  <img src="https://github.com/VladAndrei25/task-manager-app/blob/main/getAllTasks.gif" alt="Test run demo" width="80%">
+</div>
+⭐ *This is my personal Task Manager CLI + FileHandler + Markdown Expoerter project — built from scratch as part of my learning journey.*
+
+---
 ---
 
 <!-- 🧰 Tech Stack (kept relevant only) -->
